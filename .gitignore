@@ -1,0 +1,19 @@
+# Large model files
+*.gguf
+*.bin
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local benchmark scratch files
+*.tmp
+*.swp
+.DS_Store
+
+# Do not commit local environment exports unless intentionally curated
+conda-meta/
