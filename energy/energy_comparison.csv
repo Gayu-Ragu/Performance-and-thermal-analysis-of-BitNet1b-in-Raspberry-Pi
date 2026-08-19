@@ -1,0 +1,10 @@
+metric,set_a_no_cooling,set_b_active_cooling,change_A_to_B
+Total energy (mWh),861,903,+4.88%
+Total energy (J),3099.6,3250.8,+4.88%
+Energy per query (J/query),619.92,650.16,+4.88%
+Energy per requested generated token (J/token),4.843,5.079,+4.88%
+Requested generated tokens per joule,0.2065,0.1969,-4.65%
+Five-query meter duration (s),513,376,-26.71%
+Average whole-system power (W),6.04,8.646,+43.1%
+Maximum observed power (W),8.707,9.066,+4.1%
+Maximum current (A),1.690,1.758,+4.0%
